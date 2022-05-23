@@ -1,0 +1,10 @@
+.Header {
+    grid-area: header;
+    background-color: green;
+}
+
+.Header .Header_logo img {
+    width: 150px;
+    height: 60px;
+}
+
