@@ -7,9 +7,9 @@ const Navbar = () => {
             <div className={navbarClass.navbar_menu}>
                 <a href="/profile">Profile</a>
                 <a href="/messages">Messages</a>
-                <a href="">News</a>
-                <a href="">Feed</a>
-                <a href="">Settings</a>
+                <a href="/news">News</a>
+                <a href="/feed">Feed</a>
+                <a href="/settings">Settings</a>
             </div>
         </div>
     )
