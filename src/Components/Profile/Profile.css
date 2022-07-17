@@ -1,8 +1,0 @@
-.Profile {
-    grid-area: mainContent;
-    background-color: darkcyan;
-}
-
-.Profile .Profile_img img {
-    width: 1000px;
-}

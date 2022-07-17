@@ -1,9 +1,9 @@
-.Navbar {
+.navbar {
     grid-area: technologies;
     background-color: blueviolet;
 }
 
-.Navbar .Navbar_menu a {
+.navbar .navbar_menu a {
     display: block;
     color: black;
     text-decoration: none;
@@ -11,6 +11,6 @@
     text-align: center;
 }
 
-.Navbar .Navbar_menu a:hover {
+.navbar .navbar_menu a:hover {
     color: red;
 }
