@@ -14,3 +14,7 @@
 .navbar .navbar_menu a:hover {
     color: red;
 }
+
+.navbar .navbar_menu a.active {
+    color: gold;
+}
